@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/Demo3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo5.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IfDemo1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IfDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IfDemo3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IfDemo4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IfDemo5.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Work.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ArrayDemo1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ArrayDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ArrayDemo3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ArrayDemo4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/BreakDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ContinueDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/DowhileDemo1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/DowhileDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/DowhileDemo4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ErrorDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ForDemo1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ForDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dowhileDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/switchdemo/SwitchDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/whiledemo/WhileDemo1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/whiledemo/WhileDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/whiledemo/WhileDemo3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/whiledemo/WhileDemo4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/变量作用域.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/练习一.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/text/Java ch02.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/text/Java ch03.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/text/Java ch04.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/text/Java ch05.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/text/Java数组 ch06.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

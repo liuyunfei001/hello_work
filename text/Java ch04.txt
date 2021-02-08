@@ -1,0 +1,67 @@
+一、使用switch  特点:等值判断
+	 switch(变量){
+		case 值1:
+			 执行代码块...
+		 break;
+		case 值1:
+			 执行代码块...
+		 break;
+			 ....
+		 default:
+		 执行代码块...		 
+		 break;
+	 }
+  注意:a.default块可有可无
+       b.break不能省,表示退出switch
+       c.switch中的变量为整型或字符型
+       d.case可以并列列举
+         case 值:
+         case 值:
+             执行代码块
+         break;       
+
+
+二、多重if与switch的区别
+switch多用于等值判断，而多重if多用于区间的判断
+
+三、变量作用域(变量的效范围)
+ 局部变量:在大括号内定义的变量称为局部变量
+ 全部变量:在大括号外定义的变量称为全局变量
+
+================循环结构=============================
+四、循环结构
+  1.循环作用:解决重复做事情
+  2.循环语句:while循环语句，do...while循环，for循环
+  3.while循环语名
+    while(循环条件){
+       循环体....
+    }
+
+    3.1使用while循环控制固定次数循环
+     	 int i=1;  //记录循环的次数
+	 while(i<=5){
+		循环体..
+            i++;//i=i+1;  //自增
+	 }
+
+    3.2不确定次数的循环
+         Scanner input=new Scanner(System.in);
+	 System.out.println("能参加跑圈:(y|n)");
+	 String str=input.next();
+	 while(str.equals("y")){
+		 System.out.println("跑完一圈....");  //循环体
+		 
+		 System.out.println("还能继续跑吗（y｜n）?");
+		 str=input.next(); 
+	 }
+
+五、使用equals判断字符串是否相等
+ 字符串1.equals(字符串2)  相同返回true,反之false
+
+六、myeclipse的项目导入导出
+  1.项目导出
+   项目-右键->export->general->File System->选择保存目录即可
+
+  2.项目导入
+   包资源管理器-右键->import->general->Existring project into workspace->选择项目根目录即可
+
